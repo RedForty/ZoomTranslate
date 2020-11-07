@@ -13,5 +13,6 @@ zoom_translate.run()
 
 ## Usage
 Click that button or hotkey
+
 mmb to move objects closer/farther away from you
 
