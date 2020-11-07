@@ -15,7 +15,7 @@ MOUSE_SCALE      = 1.0
 
 # --------------------------------------------------------------------------- #
 
-def zoom_translate():
+def run():
     if cmds.contextInfo(ZOOM_TRANSLATE, exists=True):
         cmds.setToolTo(ZOOM_TRANSLATE)
         return
