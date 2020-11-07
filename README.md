@@ -5,7 +5,7 @@ Translate selected objects toward/away from camera
 Download and put the viewSwitcher.py file in your <MY_DOCUMENTS>/maya/scripts/ folder.
 
 ## Setup
-Make a shelf button or a hotkey with this <b>python<\b> code.
+Make a shelf button or a hotkey with this <b>python</b> code.
 ```
 import zoom_translate
 zoom_translate.run()
